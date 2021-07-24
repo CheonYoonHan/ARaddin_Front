@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "649870568730",
+    "project_id": "araddin-fd138",
+    "storage_bucket": "araddin-fd138.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:649870568730:android:348682e4f1ebe723df50a3",
+        "android_client_info": {
+          "package_name": "smu.highill.araddin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "649870568730-2vetdi5ma6obulepug7h9iidql14la6s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACoJOV15zpVOD9qMImO8KTVp0rGXJjE14"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "649870568730-2vetdi5ma6obulepug7h9iidql14la6s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
