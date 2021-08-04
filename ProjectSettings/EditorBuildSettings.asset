@@ -9,7 +9,7 @@ EditorBuildSettings:
     path: Assets/Plugins/arfoundation-samples/Scenes/BoxMoving/BasicPlane.unity
     guid: 1c82b2f2bd777004785aebe6f4e2101e
   - enabled: 1
-    path: Assets/Scenes/Game Scene/GameScene.unity
+    path: Assets/Scenes/Game Scene/Thief Scene.unity
     guid: b2b3d38ae484533429856647f8c6157d
   m_configObjects:
     com.unity.xr.arcore.PlayerSettings: {fileID: 11400000, guid: f13475799ed6b3943ad69bc93c215f21,
